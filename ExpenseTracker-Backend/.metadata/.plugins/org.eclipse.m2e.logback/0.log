@@ -3414,3 +3414,49 @@
 2025-09-19 07:52:05,455 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/BudgetPlanner-Backend/BudgetPlanner/src/test/resources
 2025-09-19 08:03:05,829 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2025-09-19 14:47:17,150 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-19 18:44:49,415 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-19 18:45:04,468 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.BudgetPlanner.sdp:BudgetPlanner:0.0.1-SNAPSHOT @ /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/BudgetPlanner/pom.xml.
+2025-09-19 18:45:04,953 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:45:04,976 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:45:04,983 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/BudgetPlanner/src/test/resources
+2025-09-19 18:45:07,586 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.BudgetPlanner.sdp:BudgetPlanner:0.0.1-SNAPSHOT @ /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/BudgetPlanner/pom.xml.
+2025-09-19 18:45:08,424 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:45:08,465 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:45:08,492 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/BudgetPlanner/src/test/resources
+2025-09-19 18:45:34,206 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.BudgetPlanner.sdp:BudgetPlanner:0.0.1-SNAPSHOT @ /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/pom.xml.
+2025-09-19 18:45:34,736 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:45:34,748 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:45:34,750 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:45:36,994 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:45:37,003 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:45:37,017 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:38,279 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:38,293 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:38,301 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:42,316 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:42,319 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:42,323 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:44,529 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:44,535 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:44,537 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:48,931 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:48,934 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:48,937 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:51,005 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:51,011 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:51,017 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:48:57,449 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:48:57,514 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:48:58,041 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:49:03,096 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:49:03,103 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:49:03,110 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:49:08,751 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:49:08,755 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:49:08,757 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:49:37,561 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:49:37,577 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:49:37,583 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
+2025-09-19 18:51:02,813 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-09-19 18:51:02,826 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-09-19 18:51:02,834 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/charanteja/Downloads/Telegram Desktop/My-BudgetPlanner/ExpenseTracker-Backend/ExpenseTracker/src/test/resources
